@@ -1,0 +1,91 @@
+.jumbotron {
+  font-family: 'Verdana', sans-serif;
+  border-bottom: 5px solid #A31F34;
+  background :#A31F34 url() no-repeat right 50px center;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:5px;
+}
+
+.jumbotron .container .info{
+  left: 200px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 50px;  
+  font-weight: bold;
+  margin-bottom: 23px;
+}
+
+.jumbotron h3 {
+  margin-left: 7px;
+}
+
+.jumbotron a {
+  font-size: 18px;
+  color: #C2C0BF;
+}
+
+.jumbotron img {
+    width: 300px;
+    height: 300px;
+    right: 800px;
+}
+
+
+ul {
+  list-style-position: outside;
+  padding-left: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  list-style-type:circle;
+}
+
+li {
+  font-size: 18px;
+  text-align: -webkit-match-parent;
+  display: inline;
+  list-style-type:circle;
+}
+
+.otherinfo {
+  background-color: #f7f7f7;
+}
+
+.otherinfo h3 {
+  font-family: 'Verdana', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.otherinfo a {
+  color: rgb(127,5,36);
+}
+
+.personalinfo {
+  margin-top: 40px;
+  border-bottom: 1px solid #dbdbdb;
+  font-family: 'Verdana', sans-serif;
+}
+
+.personalinfo h2 {
+  color: #393c3d;
+  font-size: 22px;
+}
+
+.personalinfo h3 {
+  color: #393c3d;
+  font-size: 19px;
+}
+
+.personalinfo p {
+  font-size: 16px;
+  margin-bottom: 13px
+}
+
+.personalinfo a {
+  color: rgb(127,5,36);
+}
